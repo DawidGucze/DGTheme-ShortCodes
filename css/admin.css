@@ -1,0 +1,16 @@
+.mce-largemce-panel {
+    top: 22% !important;
+    max-height: 500px !important;
+}
+.mce-largemce-panel .mce-reset {
+    height: 500px !important;;
+    overflow: auto !important;
+    margin-left: -16px !important;
+    margin-right: -16px !important;
+}
+.mce-largemce-panel .mce-window-head {
+    margin-left: 16px !important;
+}
+.mce-largemce-panel .mce-foot {
+    margin-left: 15px !important;
+}

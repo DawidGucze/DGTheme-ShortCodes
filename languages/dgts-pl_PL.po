@@ -1,0 +1,706 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DGTheme Shortcodes 1.1\n"
+"Last-Translator: DGTheme\n"
+"Language-Team: DGTheme\n"
+"Language: Polish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../includes/plugin-options.php:7
+#: ../includes/plugin-options.php:8
+msgid "DGTS Options"
+msgstr "Opcje DGTS"
+
+#: ../includes/plugin-options.php:23
+msgid "DGTheme Shortcodes Options"
+msgstr "Opcje DGTheme Shortcodes"
+
+#: ../includes/plugin-options.php:33
+#: ../includes/plugin-options.php:78
+msgid "Basic Options"
+msgstr "Opcje Podstawowe"
+
+#: ../includes/plugin-options.php:85
+msgid "Set the color"
+msgstr "Ustaw kolor"
+
+#: ../includes/plugin-options.php:111
+msgid "Basic plugin options"
+msgstr "Podstawowe opcje wtyczki"
+
+#: dgtheme-shortcodes.php:210
+msgid "Days"
+msgstr "Dni"
+
+#: dgtheme-shortcodes.php:211
+msgid "Months"
+msgstr "Miesięcy"
+
+#: dgtheme-shortcodes.php:212
+msgid "Hours"
+msgstr "Godzin"
+
+#: dgtheme-shortcodes.php:213
+msgid "Minutes"
+msgstr "Minut"
+
+#: dgtheme-shortcodes.php:214
+msgid "Seconds"
+msgstr "Sekund"
+
+#: ../shortcodes/posts-carousel.php:73
+msgid "Edit"
+msgstr "Edytuj"
+
+#: ../shortcodes/logos-carousel.php:16
+#: ../shortcodes/testimonials-carousel.php:16
+#: ../shortcodes/team-members.php:16
+msgid "Nothing found."
+msgstr "Nic nie znaleziono."
+
+#: ../shortcodes/logos-carousel.php:17
+#: ../shortcodes/testimonials-carousel.php:17
+#: ../shortcodes/team-members.php:17
+msgid "Nothing found in Trash."
+msgstr "Nic nie znaleziono w Koszu."
+
+#: ../shortcodes/logos-carousel.php:60
+#: ../shortcodes/testimonials-carousel.php:70
+msgid "Company name (optional)"
+msgstr "Nazwa firmy (opcjonalnie)"
+
+#: ../shortcodes/logos-carousel.php:64
+#: ../shortcodes/testimonials-carousel.php:74
+msgid "Website link (optional)"
+msgstr "Link do strony (opcjonalnie)"
+
+#: dgtheme-shortcodes.php:99
+msgid "Yes"
+msgstr "Tak"
+
+#: dgtheme-shortcodes.php:100
+msgid "No"
+msgstr "Nie"
+
+#: dgtheme-shortcodes.php:101
+msgid "( Step 1 of 2 )"
+msgstr "( Krok 1 z 2 )"
+
+#: dgtheme-shortcodes.php:102
+msgid "( Step 2 of 2 )"
+msgstr "( Krok 2 z 2 )"
+
+#: ../widgets/logos-carousel.php:105
+#: ../widgets/testimonials-carousel.php:126
+msgid "Order"
+msgstr "Kolejność"
+
+#: dgtheme-shortcodes.php:103
+#: ../widgets/logos-carousel.php:107
+#: ../widgets/testimonials-carousel.php:128
+msgid "Descending"
+msgstr "Malejąca"
+
+#: dgtheme-shortcodes.php:104
+#: ../widgets/logos-carousel.php:108
+#: ../widgets/testimonials-carousel.php:129
+msgid "Ascending"
+msgstr "Rosnąca"
+
+#: dgtheme-shortcodes.php:105
+#: ../widgets/logos-carousel.php:111
+#: ../widgets/testimonials-carousel.php:132
+msgid "Order by"
+msgstr "Kolejność według"
+
+#: dgtheme-shortcodes.php:106
+#: ../widgets/logos-carousel.php:113
+#: ../widgets/testimonials-carousel.php:134
+msgid "Date"
+msgstr "Daty"
+
+#: dgtheme-shortcodes.php:107
+#: ../widgets/logos-carousel.php:114
+#: ../widgets/testimonials-carousel.php:135
+msgid "ID"
+msgstr ""
+
+#: dgtheme-shortcodes.php:108
+msgid "Number of comments"
+msgstr "Ilości komentarzy"
+
+#: dgtheme-shortcodes.php:109
+#: ../widgets/logos-carousel.js:98
+#: ../widgets/testimonials-carousel.js:119
+msgid "Title"
+msgstr "Tytułu"
+
+#: dgtheme-shortcodes.php:110
+#: ../widgets/logos-carousel.php:115
+#: ../widgets/testimonials-carousel.php:136
+msgid "Modified date"
+msgstr "Daty modyfikacji"
+
+#: dgtheme-shortcodes.php:111
+#: ../widgets/logos-carousel.php:116
+#: ../widgets/testimonials-carousel.php:137
+msgid "Random"
+msgstr "Losowo"
+
+#: dgtheme-shortcodes.php:152
+#: dgtheme-shortcodes.php:160
+msgid "Sample text"
+msgstr "Przykładowy tekst"
+
+#: dgtheme-shortcodes.php:112
+msgid "Grid"
+msgstr "Siatka"
+
+#: dgtheme-shortcodes.php:113
+msgid "Section"
+msgstr "Sekcja"
+
+#: dgtheme-shortcodes.php:114
+msgid "Section Options"
+msgstr "Opcje Sekcji"
+
+#: dgtheme-shortcodes.php:115
+msgid "Set full width section"
+msgstr "Ustaw szerokość na cały ekran"
+
+#: dgtheme-shortcodes.php:116
+msgid "Section background color"
+msgstr "Kolor tła sekcji"
+
+#: dgtheme-shortcodes.php:117
+msgid "Section background image"
+msgstr "Zdjęcie w tle sekcji"
+
+#: dgtheme-shortcodes.php:118
+msgid "Image repeat"
+msgstr "Powtarzanie zdjęcia"
+
+#: dgtheme-shortcodes.php:119
+msgid "No repeat"
+msgstr "Bez powtarzania"
+
+#: dgtheme-shortcodes.php:120
+msgid "Repeat both"
+msgstr "Powtarzanie obustronne"
+
+#: dgtheme-shortcodes.php:121
+msgid "Repeat horizontally"
+msgstr "Powtarzanie poziome"
+
+#: dgtheme-shortcodes.php:122
+msgid "Repeat vertically"
+msgstr "Powtarzanie pionowe"
+
+#: dgtheme-shortcodes.php:123
+msgid "Image attachment"
+msgstr "Mocowanie zdjęcia"
+
+#: dgtheme-shortcodes.php:124
+msgid "Static"
+msgstr "Statyczne"
+
+#: dgtheme-shortcodes.php:125
+msgid "Dynamic"
+msgstr "Dynamiczne"
+
+#: dgtheme-shortcodes.php:126
+msgid "Image size"
+msgstr "Rozmiar zdjęcia"
+
+#: dgtheme-shortcodes.php:127
+msgid "Original"
+msgstr "Oryginalny"
+
+#: dgtheme-shortcodes.php:128
+msgid "Fit to screen"
+msgstr "Dopasowany do ekranu"
+
+#: dgtheme-shortcodes.php:129
+msgid "Row"
+msgstr "Wiersz"
+
+#: dgtheme-shortcodes.php:130
+msgid "Row Options"
+msgstr "Opcje wiersza"
+
+#: dgtheme-shortcodes.php:131
+msgid "Row width in pixels"
+msgstr "Szerokość wiersza w pikselach"
+
+#: dgtheme-shortcodes.php:132
+msgid "empty field = 100% width"
+msgstr "puste pole = 100% szerokości"
+
+#: dgtheme-shortcodes.php:133
+msgid "Row height in pixels"
+msgstr "Wysokość wiersza w pikselach"
+
+#: dgtheme-shortcodes.php:134
+msgid "empty field = auto height"
+msgstr "puste pole = automatyczna wysokość"
+
+#: dgtheme-shortcodes.php:135
+msgid "Columns"
+msgstr "Kolumny"
+
+#: dgtheme-shortcodes.php:136
+msgid "Columns Options"
+msgstr "Opcje kolumn"
+
+#: dgtheme-shortcodes.php:137
+msgid "Column width in % (plus separated)"
+msgstr "Szerokość kolumny w % (oddzielone plusem)"
+
+#: dgtheme-shortcodes.php:138
+msgid "Pricing Tables"
+msgstr "Tabele cenowe"
+
+#: dgtheme-shortcodes.php:139
+msgid "Pricing Tables Options"
+msgstr "Opcje tabel cenowych"
+
+#: dgtheme-shortcodes.php:140
+msgid "Pricing Table"
+msgstr "Tabela cenowa"
+
+#: dgtheme-shortcodes.php:141
+msgid "Tables per row"
+msgstr "Tabele w rzędzie"
+
+#: dgtheme-shortcodes.php:142
+msgid "Table Title"
+msgstr "Tytuł tabeli"
+
+#: dgtheme-shortcodes.php:143
+msgid "Silver"
+msgstr "Srebrny"
+
+#: dgtheme-shortcodes.php:144
+msgid "Featured"
+msgstr "Wyróżniona"
+
+#: dgtheme-shortcodes.php:145
+msgid "Price"
+msgstr "Cena"
+
+#: dgtheme-shortcodes.php:146
+msgid "1299$"
+msgstr "1299PLN"
+
+#: dgtheme-shortcodes.php:147
+msgid "Fee"
+msgstr "Opłata"
+
+#: dgtheme-shortcodes.php:148
+msgid "Monthly"
+msgstr "Miesięcznie"
+
+#: dgtheme-shortcodes.php:149
+msgid "Button text"
+msgstr "Tekst przycisku"
+
+#: dgtheme-shortcodes.php:150
+msgid "Purchase NOW"
+msgstr "Kup teraz"
+
+#: dgtheme-shortcodes.php:151
+msgid "Button link"
+msgstr "Odnośnik przycisku"
+
+#: dgtheme-shortcodes.php:153
+msgid "Counters"
+msgstr "Liczniki"
+
+#: dgtheme-shortcodes.php:154
+msgid "Counters Options"
+msgstr "Opcje liczników"
+
+#: dgtheme-shortcodes.php:155
+msgid "Counters per row"
+msgstr "Liczniki w rzędzie"
+
+#: dgtheme-shortcodes.php:156
+msgid "Counter"
+msgstr "Licznik"
+
+#: dgtheme-shortcodes.php:157
+msgid "Number"
+msgstr "Liczba"
+
+#: dgtheme-shortcodes.php:158
+msgid "Before Number"
+msgstr "Przed liczbą"
+
+#: dgtheme-shortcodes.php:159
+msgid "After Number"
+msgstr "Za liczbą"
+
+#: dgtheme-shortcodes.php:160
+msgid "$"
+msgstr "PLN"
+
+#: dgtheme-shortcodes.php:161
+msgid "Counter Title"
+msgstr "Tytuł licznika"
+
+#: dgtheme-shortcodes.php:163
+msgid "Countdown Clock"
+msgstr "Licznik czasu"
+
+#: dgtheme-shortcodes.php:164
+msgid "Countdown Clock Options"
+msgstr "Opcje licznika czasu"
+
+#: dgtheme-shortcodes.php:165
+msgid "Enter day"
+msgstr "Podaj dzień"
+
+#: dgtheme-shortcodes.php:166
+msgid "Enter month"
+msgstr "Podaj miesiąc"
+
+#: dgtheme-shortcodes.php:167
+msgid "Enter year"
+msgstr "Podaj rok"
+
+#: dgtheme-shortcodes.php:168
+msgid "Enter hour"
+msgstr "Podaj godzinę"
+
+#: dgtheme-shortcodes.php:169
+msgid "Enter minutes"
+msgstr "Podaj minuty"
+
+#: dgtheme-shortcodes.php:170
+msgid "Enter seconds"
+msgstr "Podaj sekundy"
+
+#: dgtheme-shortcodes.php:171
+msgid "Message after the countdown"
+msgstr "Wiadomość po ukończeniu odliczania"
+
+#: dgtheme-shortcodes.php:172
+msgid "Happy New Year!"
+msgstr "Szczęśliwego Nowego Roku!"
+
+#: dgtheme-shortcodes.php:173
+msgid "Posts Carousel"
+msgstr "Karuzela postów"
+
+#: dgtheme-shortcodes.php:174
+msgid "Posts Carousel Options"
+msgstr "Opcje karuzeli postów"
+
+#: dgtheme-shortcodes.php:175
+msgid "Number of posts to display"
+msgstr "Ilość wpisów do wyświetlenia"
+
+#: dgtheme-shortcodes.php:176
+msgid "empty = all posts"
+msgstr "puste pole = wszystkie wpisy"
+
+#: dgtheme-shortcodes.php:177
+msgid "Number of visible posts"
+msgstr "Ilość widocznych wpisów"
+
+#: dgtheme-shortcodes.php:178
+msgid "Show posts from category (comma separated)"
+msgstr "Pokaż wpisy z kategorii (oddzielone przecinkami)"
+
+#: dgtheme-shortcodes.php:179
+msgid "Show post meta"
+msgstr "Pokaż informacje wpisu"
+
+#: dgtheme-shortcodes.php:180
+msgid "Show post date"
+msgstr "Pokaż datę wpisu"
+
+#: dgtheme-shortcodes.php:181
+msgid "Button text"
+msgstr "Tekst przycisku"
+
+#: dgtheme-shortcodes.php:182
+msgid "Read more"
+msgstr "Czytaj więcej"
+
+#: dgtheme-shortcodes.php:183
+msgid "Posts order"
+msgstr "Kolejność wpisów"
+
+#: dgtheme-shortcodes.php:184
+msgid "Logos Carousel"
+msgstr "Karuzela logotypów"
+
+#: dgtheme-shortcodes.php:185
+msgid "Logos Carousel Options"
+msgstr "Opcje karuzeli logotypów"
+
+#: dgtheme-shortcodes.php:186
+msgid "Number of logos to display"
+msgstr "Ilość logotypów do wyświetlenia"
+
+#: dgtheme-shortcodes.php:187
+msgid "Number of visible logos"
+msgstr "Ilość widocznych logotypów"
+
+#: dgtheme-shortcodes.php:188
+#: ../widgets/logos-carousel.php:119
+msgid "Logo ID (comma separated)"
+msgstr "ID loga (oddzielone przecinkami)"
+
+#: dgtheme-shortcodes.php:189
+msgid "Logos order"
+msgstr "Kolejność logotypów"
+
+#: dgtheme-shortcodes.php:190
+msgid "Testimonials Carousel"
+msgstr "Karuzela opinii"
+
+#: dgtheme-shortcodes.php:191
+msgid "Testimonials Carousel Options"
+msgstr "Opcje karuzeli opinii"
+
+#: dgtheme-shortcodes.php:192
+#: ../widgets/testimonials-carousel.php:122
+msgid "Number of testimonials to display"
+msgstr "Ilość opinii do wyświetlenia"
+
+#: dgtheme-shortcodes.php:193
+msgid "Number of visible testimonials"
+msgstr "Ilość widocznych opinii"
+
+#: dgtheme-shortcodes.php:194
+#: ../widgets/testimonials-carousel.php:140
+msgid "Testimonial ID (comma separated)"
+msgstr "ID opinii (oddzielone przecinkami)"
+
+#: dgtheme-shortcodes.php:195
+msgid "Testimonials order"
+msgstr "Kolejność opinii"
+
+#: dgtheme-shortcodes.php:196
+msgid "Team Members"
+msgstr "Członkowie zespołu"
+
+#: dgtheme-shortcodes.php:197
+msgid "Team Members Options"
+msgstr "Opcje członków zespołu"
+
+#: dgtheme-shortcodes.php:198
+msgid "Enable team carousel"
+msgstr "Włączyć karuzelę zespołu"
+
+#: dgtheme-shortcodes.php:199
+msgid "Number of team members to display"
+msgstr "Ilość członków zespołu do wyświetlenia"
+
+#: dgtheme-shortcodes.php:200
+msgid "Number of team members per row / visible team members"
+msgstr "Ilość członków zespołu w rzędzie / widocznych członków zespołu"
+
+#: dgtheme-shortcodes.php:201
+msgid "Team Member ID (comma separated)"
+msgstr "ID członka zespołu (oddzielone przecinkami)"
+
+#: dgtheme-shortcodes.php:202
+msgid "Team members order"
+msgstr "Kolejność członków zespołu"
+
+#: ../shortcodes/logos-carousel.php:7
+msgid "Logos"
+msgstr "Loga"
+
+#: ../shortcodes/logos-carousel.php:8
+msgid "Logo"
+msgstr ""
+
+#: ../shortcodes/logos-carousel.php:9
+msgid "DGTS Logos"
+msgstr "DGTS Loga"
+
+#: ../shortcodes/logos-carousel.php:10
+msgid "Add New Logo"
+msgstr "Dodaj nowe logo"
+
+#: ../shortcodes/logos-carousel.php:11
+msgid "New Logo"
+msgstr "Nowe logo"
+
+#: ../shortcodes/logos-carousel.php:12
+msgid "Edit Logo"
+msgstr "Edytuj logo"
+
+#: ../shortcodes/logos-carousel.php:13
+msgid "View Logo"
+msgstr "Zobacz logo"
+
+#: ../shortcodes/logos-carousel.php:14
+msgid "All Logos"
+msgstr "Wszystkie loga"
+
+#: ../shortcodes/logos-carousel.php:15
+msgid "Search Logos"
+msgstr "Szukaj loga"
+
+#: ../shortcodes/logos-carousel.php:45
+msgid "Logo Details"
+msgstr "Szczegóły loga"
+
+#: ../shortcodes/logos-carousel.php:95
+msgid "Logo ID:"
+msgstr "ID loga:"
+
+#: ../widgets/logos-carousel.php:51
+msgid "Display logos carousel."
+msgstr "Wyświetla karuzelę logotypów."
+
+#: ../widgets/logos-carousel.php:52
+msgid "DGTS Logos Carousel"
+msgstr "DGTS Karuzela Logotypów."
+
+#: ../widgets/logos-carousel.php:101
+msgid "Number of logos to display"
+msgstr "Liczba logotypów do wyświetlenia"
+
+#: ../shortcodes/testimonials-carousel.php:7
+msgid "Testimonials"
+msgstr "Opinie"
+
+#: ../shortcodes/testimonials-carousel.php:8
+msgid "Testimonial"
+msgstr "Opinia"
+
+#: ../shortcodes/testimonials-carousel.php:9
+msgid "DGTS Testimonials"
+msgstr "DGTS Opinie"
+
+#: ../shortcodes/testimonials-carousel.php:10
+msgid "Add New Testimonial"
+msgstr "Dodaj nową opinię"
+
+#: ../shortcodes/testimonials-carousel.php:11
+msgid "New Testimonial"
+msgstr "Nowa opinia"
+
+#: ../shortcodes/testimonials-carousel.php:12
+msgid "Edit Testimonial"
+msgstr "Edytuj opinię"
+
+#: ../shortcodes/testimonials-carousel.php:13
+msgid "View Testimonial"
+msgstr "Zobacz opinię"
+
+#: ../shortcodes/testimonials-carousel.php:14
+msgid "All Testimonials"
+msgstr "Wszystkie opinie"
+
+#: ../shortcodes/testimonials-carousel.php:15
+msgid "Search Testimonials"
+msgstr "Szukaj opinii"
+
+#: ../shortcodes/testimonials-carousel.php:45
+msgid "Testimonial Details"
+msgstr "Szczegóły opinii"
+
+#: ../shortcodes/testimonials-carousel.php:62
+msgid "Short introduction (optional)"
+msgstr "Krótki wstęp (opcjonalnie)"
+
+#: ../shortcodes/testimonials-carousel.php:66
+msgid "Client name (optional)"
+msgstr "Imię klienta (opcjonalnie)"
+
+#: ../shortcodes/testimonials-carousel.php:105
+msgid "Testimonial ID:"
+msgstr "ID opinii:"
+
+#: ../widgets/testimonials-carousel.php:72
+msgid "Display testimonials carousel."
+msgstr "Wyświetla karuzelę opinii."
+
+#: ../widgets/testimonials-carousel.php:73
+msgid "DGTS Testimonials Carousel"
+msgstr "DGTS Karuzela Opinii."
+
+#: ../shortcodes/team-members.php:7
+msgid "Team Members"
+msgstr "Członkowie zespołu"
+
+#: ../shortcodes/team-members.php:8
+msgid "Team Member"
+msgstr "Członek zespołu"
+
+#: ../shortcodes/team-members.php:9
+msgid "DGTS Team"
+msgstr "DGTS Zespół"
+
+#: ../shortcodes/team-members.php:10
+msgid "Add New Team Member"
+msgstr "Dodaj nowego członka zespołu"
+
+#: ../shortcodes/team-members.php:11
+msgid "New Team Member"
+msgstr "Nowy członek zespołu"
+
+#: ../shortcodes/team-members.php:12
+msgid "Edit Team Member"
+msgstr "Edytuj członka zespołu"
+
+#: ../shortcodes/team-members.php:13
+msgid "View Team Member"
+msgstr "Zobacz członka zespołu"
+
+#: ../shortcodes/team-members.php:14
+msgid "All Team Members"
+msgstr "Wszyscy członkowie zespołu"
+
+#: ../shortcodes/team-members.php:15
+msgid "Search Team Members"
+msgstr "Szukaj członków zespołu"
+
+#: ../shortcodes/team-members.php:45
+msgid "Team Member Details"
+msgstr "Szczegóły członka zespołu"
+
+#: ../shortcodes/team-members.php:66
+msgid "Member name (optional)"
+msgstr "Imię członka zespołu (opcjonalnie)"
+
+#: ../shortcodes/team-members.php:70
+msgid "Position in team (optional)"
+msgstr "Pozycja w zespole (opcjonalnie)"
+
+#: ../shortcodes/team-members.php:74
+msgid "E-mail (optional)"
+msgstr "E-mail (opcjonalnie)"
+
+#: ../shortcodes/team-members.php:78
+msgid "Facebook (optional)"
+msgstr "Facebook (opcjonalnie)"
+
+#: ../shortcodes/team-members.php:82
+msgid "Twitter (optional)"
+msgstr "Twitter (opcjonalnie)"
+
+#: ../shortcodes/team-members.php:86
+msgid "Linkedin (optional)"
+msgstr "Linkedin (opcjonalnie)"
+
+#: ../shortcodes/team-members.php:90
+msgid "Instagram (optional)"
+msgstr "Instagram (opcjonalnie)"
+
+#: ../shortcodes/team-members.php:94
+msgid "Google+ (optional)"
+msgstr "Google+ (opcjonalnie)"
+
+#: ../shortcodes/team-members.php:125
+msgid "Team Member ID:"
+msgstr "ID członka zespołu:"

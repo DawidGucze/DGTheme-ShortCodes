@@ -17,3 +17,5 @@ Shortcode'y:
 Widgety:
 - logos carousel - slider logotypów
 - testimonials carousel - slider opinii
+
+Dokumentacja: https://dawidgucze.pl/documentation/shortcodes/
